@@ -5,7 +5,7 @@ Static portfolio website for Yashkumar Patel's local visibility support service.
 ## Folder Structure
 
 ```text
-Side Hustle/
+yashkumar-smallbusiness-portfolio/
 ├── index.html
 ├── styles.css
 ├── script.js
